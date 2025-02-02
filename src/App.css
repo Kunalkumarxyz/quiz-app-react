@@ -1,0 +1,58 @@
+/* General styles for the app */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f1f4;
+  color: #090101;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #010a02;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  color: #8fe98c;
+  margin-bottom: 20px;
+}
+
+/* Quiz component styles */
+.quiz {
+  background-color: #6bbb76;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(167, 90, 218, 0.1);
+}
+
+.quiz h2 {
+  font-size: 1.8em;
+  color: #e6eeeb;
+  margin-bottom: 20px;
+}
+
+.quiz form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quiz input {
+  width: 80%;
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #f6eded;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
