@@ -12,6 +12,16 @@ const Quiz = () => {
       options: ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
       correctAnswer: "New Delhi",
     },
+    { 
+      question: "Which HTML attribute is used to define inline styles?",
+      options: ["font", "class", "style", "none"],
+      correctAnswer: "style",
+    },
+    {
+      question: "Which HTML tag is used to define an internal style sheet?",
+      options: ["<script>", "<css>", "<style>", "None of these"],
+      correctAnswer: "<style>",
+    }
   ];
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
