@@ -38,6 +38,8 @@ Follow these steps to set up and run the project locally:
 ## Screenshots
 Screenshots of the application can be found in the `src/Screenshots/` directory.
 
+![Screenshot](https://imgur.com/a/tTix30v)
+
 ## Contributing
 If you would like to contribute, feel free to fork the repository and submit a pull request.
 
