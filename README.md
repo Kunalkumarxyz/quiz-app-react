@@ -38,7 +38,8 @@ Follow these steps to set up and run the project locally:
 ## Screenshots
 Screenshots of the application can be found in the `src/Screenshots/` directory.
 
-![Screenshot](https://imgur.com/a/tTix30v)
+<a href="https://imgur.com/AkGqbmn"><img src="https://i.imgur.com/AkGqbmn.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/0ZCbdbF"><img src="https://i.imgur.com/0ZCbdbF.jpg" title="source: imgur.com" /></a>
 
 ## Contributing
 If you would like to contribute, feel free to fork the repository and submit a pull request.
